@@ -4,3 +4,8 @@ body {
     background-position: center;
     background-repeat: no-repeat;
   }
+
+h1, h2, p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
