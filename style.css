@@ -3,7 +3,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding-bottom: 20px;
+    border-bottom: 1px;
   }
 
 h1, h2, p {
